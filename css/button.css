@@ -1,0 +1,22 @@
+.btn{   
+   /* inline-size: 20.5rem;*/
+    border: 2px solid var(--primary);
+    cursor: pointer;
+    font: var(--button);
+    border-radius: 4px;
+    padding-block-start: .8125rem;
+    padding-block-end: .8125rem;
+    padding-inline-start: 1.5rem;
+    padding-inline-end: 1.5rem;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+.isPrimary{
+    background: var(--primary);
+    color: var(--white);
+}
+.isTransparent{
+    background: transparent;
+    
+}

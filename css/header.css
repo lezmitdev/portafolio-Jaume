@@ -1,0 +1,7 @@
+@import './header-content.css';
+.header{
+    position: sticky;
+    top: 0;
+    backdrop-filter: blur(5px);
+    
+}
